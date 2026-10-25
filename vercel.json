@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/push-sw.js",
+      "destination": "https://cdn.ziaurrehman.engineer/stub/push-sw.js"
+    }
+  ]
+}
